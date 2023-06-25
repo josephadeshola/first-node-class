@@ -1,0 +1,27 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} 
+/* nav{ */
+    /* background-color: red !important; */
+/* } */
+/* a{ */ 
+    /* font-family: 'Alkatra', cursive; */
+/* font-family: 'Lobster', cursive; */
+ 
+/* } */
+
+/* .contain1{ */
+    /* margin-top:20pc !important; */
+    /* height: 100vh !important;
+    align-items: center !important;
+    display: flex !important;
+    justify-content: center !important; */
+
+/* } */
+
+.divImag{
+height: 30vh !important; 
+}
